@@ -7,7 +7,8 @@ In this, we will cover the fundamentals part of java like Arrays, OOPs concepts,
 **Following section will cover**
 - Introduction to Java 
 - Fundamentals part 
-- |Method| 
+- Method 
+|Method| 
 |-------------------------------|
 |Declaring and Calling methods|
 |Parameters|
