@@ -16,6 +16,6 @@ In this, we will cover the fundamentals part of java like Arrays, OOPs concepts,
 Let's discuss one by one.
 
 Arrays -
-1. [Calculator program by using parallel array.]
+1. [Calculator program by using parallel array.](https://github.com/Ashish-Rana1/Java-/blob/main/Calculator.java)
 
 
