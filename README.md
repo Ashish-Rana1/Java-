@@ -7,14 +7,7 @@ In this, we will cover the fundamentals part of java like Arrays, OOPs concepts,
 **Following section will cover**
 - Introduction to Java 
 - Fundamentals part 
- Method 
-|Method| 
-|-------------------------------|
-|Declaring and Calling methods|
-|Parameters|
-|Existing a method|
-|Returning a value|
-|Program command-line arguments|
+- Method 
 - Arrays
 - OOPs
 - Java Collection
@@ -23,6 +16,14 @@ In this, we will cover the fundamentals part of java like Arrays, OOPs concepts,
 
 
 Let's discuss one by one.
+|Method| 
+|-------------------------------|
+|Declaring and Calling methods|
+|Parameters|
+|Existing a method|
+|Returning a value|
+|Program command-line arguments|
+
 
 Arrays -
 1. [Calculator program by using parallel array.](https://github.com/Ashish-Rana1/Java-/blob/main/Calculator.java)
