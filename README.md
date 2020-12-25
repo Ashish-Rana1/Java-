@@ -20,3 +20,16 @@ Arrays -
 1. [Calculator program by using parallel array.](https://github.com/Ashish-Rana1/Java-/blob/main/Calculator.java)
 
 
+Reference table code-
+
+
+| First column  | Second column |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
