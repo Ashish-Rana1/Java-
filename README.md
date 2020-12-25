@@ -22,6 +22,18 @@ Arrays -
 
 Reference table code-
 
+|## Method| 
+|-------------------------------|
+|Declaring and Calling methods|
+|Parameters|
+|Existing a method|
+|Returning a value|
+|Program command-line arguments|
+
+| First column  |
+| ------------- |
+| Content Cell  |
+
 
 | First column  | Second column |
 | ------------- | ------------- |
