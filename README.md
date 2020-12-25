@@ -7,6 +7,13 @@ In this, we will cover the fundamentals part of java like Arrays, OOPs concepts,
 **Following section will cover**
 - Introduction to Java 
 - Fundamentals part 
+- |Method| 
+|-------------------------------|
+|Declaring and Calling methods|
+|Parameters|
+|Existing a method|
+|Returning a value|
+|Program command-line arguments|
 - Arrays
 - OOPs
 - Java Collection
@@ -22,13 +29,7 @@ Arrays -
 
 Reference table code-
 
-|## Method| 
-|-------------------------------|
-|Declaring and Calling methods|
-|Parameters|
-|Existing a method|
-|Returning a value|
-|Program command-line arguments|
+
 
 | First column  |
 | ------------- |
